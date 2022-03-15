@@ -1,4 +1,4 @@
-/** \Primeiro.c
+/** \Ficheiro.c
  *  \Funções para o exemplo do git
  * 
  * Descrição detalhada
